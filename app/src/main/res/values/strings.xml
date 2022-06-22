@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">YzrSunnyWeather</string>
+    <string name="background_place_content_description">a background place image</string>
+    <string name="search_place_edit_hint">输入搜索地址</string>
 </resources>
