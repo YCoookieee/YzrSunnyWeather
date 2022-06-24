@@ -2,4 +2,14 @@
     <string name="app_name">YzrSunnyWeather</string>
     <string name="background_place_content_description">a background place image</string>
     <string name="search_place_edit_hint">输入搜索地址</string>
+    <string name="separator">|</string>
+    <string name="forecast">预报</string>
+    <string name="sky_icon_content_description">a sky icon</string>
+    <string name="life_grade">生活指数</string>
+    <string name="dress_icon_content_description">a dress icon</string>
+    <string name="dress_content">穿衣</string>
+    <string name="glass_icon_content_description">a glass icon</string>
+    <string name="real_time_uv_rays">实时紫外线</string>
+    <string name="car_washing_icon_content_description">a car washing icon</string>
+    <string name="car_washing_content">洗车</string>
 </resources>

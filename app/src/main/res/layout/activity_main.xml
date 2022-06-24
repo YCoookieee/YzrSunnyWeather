@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
 
     <androidx.fragment.app.FragmentContainerView
-        android:id="@+id/place_fragment"
+        android:id="@+id/placeFragment"
         android:name="com.example.yzrsunnyweather.ui.place.PlaceFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
